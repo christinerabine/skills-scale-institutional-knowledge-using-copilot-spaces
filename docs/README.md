@@ -10,7 +10,7 @@ Our project lifecycle consists of **five key phases**: **Initiation**, **Plannin
 
 **Core roles** in our process include **Project Managers (PMs)** who coordinate delivery, schedules, risks, and communications; **Product Managers (PdMs)** who define outcomes, prioritize the backlog, and measure success; **Developers** who implement features and collaborate on design and testability; **QA/Testing** teams who validate quality and acceptance criteria; and **Stakeholders** who provide essential inputs and approvals throughout the lifecycle.
 
-Our **communication rhythms** include daily standups focused on progress and blockers, weekly delivery syncs between PMs and engineering teams, sprint demos at milestone completion, and regular stakeholder updates. **Quality assurance practices** are embedded throughout: we require unit tests for new logic, integration tests for component interactions, CI pipelines that run automated tests and security scans, pre-release requirements including smoke tests and rollback plans, and retrospectives after each sprint or milestone to drive continuous improvement.
+Our **communication rhythms** include regular standups (daily or twice-weekly as agreed) focused on progress and blockers, weekly delivery syncs between PMs and engineering teams, sprint demos at milestone completion, and regular stakeholder updates. **Quality assurance practices** are embedded throughout: we require unit tests for new logic, integration tests for component interactions, CI pipelines that run automated tests and security scans, pre-release requirements including smoke tests and rollback plans, and retrospectives after each sprint or milestone to drive continuous improvement.
 
 ---
 
@@ -102,7 +102,7 @@ Our **communication rhythms** include daily standups focused on progress and blo
 
 | Meeting/Update | Frequency | Participants | Purpose |
 |----------------|-----------|--------------|---------|
-| **Daily Standup** | Daily (15 min) | Delivery team | Progress, blockers, dependencies |
+| **Daily Standup** | Daily or 2x/week (as agreed) | Delivery team | Progress, blockers, dependencies |
 | **Weekly Delivery Sync** | Weekly | PM + PdM + Engineering leads | Progress updates, risk review, decisions |
 | **Sprint Demo** | End of sprint/milestone | Team + Stakeholders | Show completed work, gather feedback |
 | **Stakeholder Updates** | Weekly or milestone-based | PM → Stakeholders | Status, risks, asks |
