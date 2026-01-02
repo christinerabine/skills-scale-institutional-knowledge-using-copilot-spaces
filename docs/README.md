@@ -8,7 +8,7 @@ At OctoAcme, we follow a **structured, iterative approach** built on customer-fi
 
 Our project lifecycle consists of **five key phases**: **Initiation**, **Planning**, **Execution**, **Release**, and **Close & Retrospective**. During Initiation, we validate the business need and align stakeholders around a clear problem statement. Planning translates approved initiatives into actionable backlogs with defined acceptance criteria and risk mitigation strategies. Execution involves daily delivery work with continuous quality checks and progress tracking. The Release phase ensures safe, verified deployments to production with rollback plans in place. Finally, Close & Retrospective sessions capture learnings and convert them into actionable improvements for future work.
 
-**Core roles** in our process include **Project Managers (PMs)** who coordinate delivery, schedules, risks, and communications; **Product Managers (PdMs)** who define outcomes, prioritize the backlog, and measure success; **Developers** who implement features and collaborate on design and testability; **QA/Testing** teams who validate quality and acceptance criteria; and **Stakeholders** who provide essential inputs and approvals throughout the lifecycle.
+**Core roles** in our process include **Project Managers (PMs)** who coordinate delivery, schedules, risks, and communications; **Product Managers (PdMs)** who define outcomes, prioritize the backlog, and measure success; **Developers** who implement features and collaborate on design and testability; **Business Analysts** who gather requirements, analyze data, and document processes; **UX/UI Designers** who create user-centered designs and conduct usability research; **DevOps Engineers** who maintain infrastructure, CI/CD pipelines, and monitoring systems; **QA/Testing** teams who validate quality and acceptance criteria; **Support/Customer Success Leads** who manage customer relationships and escalations; and **Stakeholders** who provide essential inputs and approvals throughout the lifecycle.
 
 Our **communication rhythms** include regular standups (daily or twice-weekly as agreed) focused on progress and blockers, weekly delivery syncs between PMs and engineering teams, sprint demos at milestone completion, and regular stakeholder updates. **Quality assurance practices** are embedded throughout: we require unit tests for new logic, integration tests for component interactions, CI pipelines that run automated tests and security scans, pre-release requirements including smoke tests and rollback plans, and retrospectives after each sprint or milestone to drive continuous improvement.
 
@@ -44,7 +44,13 @@ Our **communication rhythms** include regular standups (daily or twice-weekly as
 ### Cross-cutting Concerns
 
 - **[octoacme-risks-and-communication.md](octoacme-risks-and-communication.md)**  
-  Risk register management, risk lifecycle, stakeholder communication templates, and escalation paths.
+  Risk register management, risk lifecycle, stakeholder communication templates, and comprehensive escalation paths.
+
+- **[octoacme-process-ownership-matrix.md](octoacme-process-ownership-matrix.md)**  
+  RACI matrix defining clear accountability for all project activities across roles and lifecycle phases.
+
+- **[octoacme-role-specific-onboarding.md](octoacme-role-specific-onboarding.md)**  
+  Comprehensive onboarding checklists for each role to ensure new team members can quickly become productive contributors.
 
 ---
 
@@ -95,6 +101,8 @@ Our **communication rhythms** include regular standups (daily or twice-weekly as
 | **Risk Register** | Active risks, impact, likelihood, mitigations | Planning & Execution | PM |
 | **Release Notes** | Summary of changes, migration steps, known issues | Release | PM + Team |
 | **Retrospective Notes** | Learnings and action items | Close & Retrospective | PM + Team |
+| **RACI Matrix** | Process ownership and accountability framework | Initiation | PM + Team Leads |
+| **Onboarding Checklist** | Role-specific onboarding tasks and milestones | Onboarding | Manager + New Hire |
 
 ---
 

@@ -33,6 +33,16 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Level 2: PM escalates to Product Lead and dependent teams
 - Level 3: Sponsor-level escalation for business-impacting issues
 
+For detailed escalation paths by issue type (technical, customer, security, etc.), see [Risk Management & Communication](octoacme-risks-and-communication.md).
+
+## Cross-functional Collaboration
+- **Business Analysts** provide requirements clarity and data insights during sprint execution
+- **UX/UI Designers** collaborate with Developers on design implementation and review
+- **DevOps Engineers** support deployment readiness and resolve infrastructure blockers
+- **Support/Customer Success** escalates critical customer issues and validates fixes
+- Daily standups should include representatives from all active roles when cross-functional work is in progress
+- Use the [Process Ownership Matrix](octoacme-process-ownership-matrix.md) to clarify accountability for activities
+
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
