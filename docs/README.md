@@ -115,7 +115,7 @@ Our **communication rhythms** include daily standups focused on progress and blo
 Found a gap in our process docs? Have a suggestion for improvement? We welcome contributions!
 
 **To propose changes or additions:**
-1. Use our [issue template](.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml)
+1. Use our [issue template](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml)
 2. Select the document you want to update (or choose "new document")
 3. Describe your proposed content and rationale
 4. Submit the issue for review by the OctoAcme Project Management Team
