@@ -9,12 +9,20 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Align timelines, releases, and responsibilities
 
 ## Activities
-1. Kickoff meeting with stakeholders and delivery team
+1. Kickoff meeting with stakeholders and delivery team (include all relevant roles: PM, PdM, Developers, BA, UX/UI, DevOps, QA, Support as needed)
 2. Create prioritized backlog with acceptance criteria
 3. Estimate scope (T-shirt sizing or story points)
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+
+## Cross-functional Planning Considerations
+- **Business Analysts** document requirements and user stories during backlog creation
+- **UX/UI Designers** create design specifications and ensure designs are ready before implementation
+- **DevOps Engineers** identify infrastructure needs, deployment dependencies, and CI/CD requirements
+- **QA/Testing** defines test strategy, acceptance criteria, and quality gates
+- **Support/Customer Success** provides input on customer needs and documentation requirements
+- Use the [Process Ownership Matrix](octoacme-process-ownership-matrix.md) to assign clear accountability
 
 ## Backlog Item Template
 - Title:

@@ -19,6 +19,13 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
 
+## Cross-functional Initiation
+- Involve **Business Analysts** early to validate business needs and gather initial requirements
+- Engage **UX/UI Designers** to assess design effort and user research needs
+- Consult **DevOps Engineers** for infrastructure and deployment considerations
+- Include **Support/Customer Success** to understand customer impact and expectations
+- Use the [Process Ownership Matrix](octoacme-process-ownership-matrix.md) for role clarity
+
 ## Project One-pager Template
 - Project name:
 - Problem statement:
